@@ -1,0 +1,365 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+span, a, label {
+    display: inline-block;
+}
+.big{
+    width: 1100px;
+   margin: 50px auto;
+}
+
+.box{
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid wheat;
+    background-color: white;
+    padding: 10px;
+}
+.div1{
+    margin-left: 40px;
+}
+.div2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.btn{
+    margin-left: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.div{
+    width: 30%;
+     backdrop-filter: blur(10px);
+     padding-top: 300px 0;
+     align-items: center;
+     padding: 343px 0;
+     padding-left: 30px;
+}
+.divv{
+margin-top: 20px;
+
+}
+.box2{
+    width:70%;
+    backdrop-filter:blur(5px);
+}
+.text{
+    font-size: 30px;
+}
+.text2{
+    margin-top: 10px;
+    color: white;
+    font-size: 15px;
+}
+.btn2{
+    padding: 7px;
+    background-color: cadetblue;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+.quti{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-image:linear-gradient(rgba(255, 255, 255, 0.183),rgba(245, 222, 179, 0.233)),url("image1.jpg");
+   background-position:bottom;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 800px;
+
+}
+.icon{
+    color: white;
+}
+.div11, .div22{
+    display: flex;
+    flex-wrap:wrap;  
+    margin-left: 300px; 
+}
+.div112, .div113{
+    margin-left: 200px;
+}
+.p2, .p3{
+    margin-left: 140px;
+}.div3{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.p31{
+    font-size: 20px;
+    font-weight: bold;
+}
+.div320{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div32{
+text-decoration: line-through;
+}
+.div4{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.div41{
+width: 400px;
+height: 100px;
+}
+.div42{
+width: 60%;
+}
+.div422{
+    margin-top: 50px;
+   
+}
+.btn3{
+     padding: 10px;
+     background-color: cadetblue;
+     border-radius: 4px;
+}
+.tnh-logo {
+    margin-top: 10px;
+    -ms-flex-negative: 0;
+    background: url(https://s.alicdn.com/@img/imgextra/i2/O1CN0153JdbU26g4bILVOyC_!!6000000007690-2-tps-418-58.png) no-repeat 0 0;
+    background-size: 209px 29px;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    height: 29px;
+    width: 209px;
+    z-index: 9999;
+}
+.div4232{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div42321{
+    width: 50px;
+    height: 50px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.div42322{
+    width: 50px;
+    height: 50px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.div423{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.quti3{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.div51, .div52, .div53{
+width: 30%;
+
+}
+.div51{
+    border: 3px solid snow;
+box-shadow: 10px 6px 3px silver;
+}
+.div511{
+width: 60px;
+height: 50px;
+border-radius: 4px;
+padding: 10px;
+background-color: aqua;
+}
+.div521{
+    width: 60px;
+height: 50px;
+border-radius: 4px;
+padding: 10px;
+background-color:rgb(235, 168, 168);
+}
+.div531{
+    width: 60px;
+height: 50px;
+border-radius: 4px;
+padding: 10px;
+background-color:rgb(133, 133, 232);
+}
+.quti4{
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 30%;
+}
+.quti5{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.div71{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    border: 3px solid black;
+}
+.i2{
+    background-color: silver;
+    padding: 5px;
+}
+.div72{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+
+}
+.btn4{
+    background-color: white;
+    padding: 10px;
+    color: rgb(76, 72, 72);
+    border: none;
+}
+.btn4:hover{
+    color: black;
+}
+.quti6{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.div8{
+    width: 22%;
+    margin: 10px;
+    background-color: azure;
+    padding-bottom: 10px;
+}
+.div80{
+    box-shadow: 10px 6px 3px silver;
+}
+.div822{
+    margin-top: 10px;
+}
+.btn5{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(66, 58, 58);
+    border-radius: 4px;
+    border: 2px solid rgb(46, 41, 41);
+    color: white;
+}
+.div9{
+    margin-left: 500px;
+}
+.quti7{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 100px;
+   display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    background-color:rgba(192, 192, 192, 0.402);
+}
+.div101{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    width: 48%;
+
+}
+ .div1012{
+    width: 48%;
+    margin-right: 40px;
+}
+.div1011{
+    width: 44%;
+    border-radius: 4px;
+}
+.div10122{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img9{
+    border-radius: 10px;
+}
+.quti8{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+    border: 2px solid rgb(51, 49, 49);
+    background-color: rgb(62, 58, 58);
+    padding: 50px;
+    color: white;
+}
+.title11{
+margin-top: 15px;
+}
+.title31{
+    margin-top: 10px;
+}
+.title221{
+    margin-top: 10px;
+}
+.title420{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.inp1{
+    padding: 10px;
+    width: 90%;
+    border-radius: 7px;
+}
+.inp2{
+    width: 60%;
+    padding: 10px;
+    border-radius: 7px;
+}
+.inp3{
+    width:45%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+.title4{
+    width: 30%;
+    padding-left: 30px;
+}
+.title3{
+    width: 20%;
+}
+.title2{
+    width: 20%;
+}
+.title1{
+    width: 20%;
+}
+
+
